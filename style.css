@@ -75,7 +75,7 @@ a {
 }
 @media (max-width: 768px) {
 	body {
-		background-image: url(images/scissor.jpg);
+		background-color: rgb(198, 198, 198);
 	}
 	.container {
 		background-color: rgba(255, 255, 255, 0.5);
@@ -87,5 +87,8 @@ a {
 	.right {
 		letter-spacing: 2px;
 		margin-right: 3%;
+	}
+	footer {
+		display: none;
 	}
 }
