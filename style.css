@@ -65,6 +65,7 @@ body {
 	margin-right: 10%;
 }
 footer {
+	height: 20px;
 	text-align: right;
 	margin-top: 13%;
 	margin-right: 2%;
@@ -102,7 +103,7 @@ a {
 		margin-right: 3%;
 	}
 	footer {
-		margin-top: 30%;
+		height: 20px;
 		font-size: 1em;
 	}
 }
