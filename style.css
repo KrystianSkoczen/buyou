@@ -65,10 +65,9 @@ body {
 	margin-right: 10%;
 }
 footer {
-	height: 20px;
-	text-align: right;
-	margin-top: 13%;
-	margin-right: 2%;
+    position: fixed;
+	bottom: 0;
+	right: 5px;
 }
 a {
 	text-decoration: none;
@@ -103,7 +102,6 @@ a {
 		margin-right: 3%;
 	}
 	footer {
-		height: 20px;
 		font-size: 1em;
 	}
 }
